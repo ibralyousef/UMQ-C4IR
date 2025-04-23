@@ -21,11 +21,11 @@ To re-run simulations, simply uncomment the relevant code cells.
 
 ### Provided Pickled Outputs
 
-- `sim_data/output_r_spectroscopy.pickle` — Resonator spectroscopy
-- `sim_data/output_two_tone.pickle` — Two-tone spectroscopy
-- `sim_data/output_chevron.pickle` — Rabi measurement
-- `sim_data/output_T1.pickle` — T1 relaxation
-- `sim_data/output_T2_start.pickle` — T2* (Ramsey)
+- `sim_data/output_r_spectroscopy.pkl` — Resonator spectroscopy
+- `sim_data/output_two_tone.pkl` — Two-tone spectroscopy
+- `sim_data/output_chevron.pkl` — Rabi measurement
+- `sim_data/output_T1.pkl` — T1 relaxation
+- `sim_data/output_T2_start.pkl` — T2* (Ramsey)
 
 ## Requirements
 
