@@ -1,5 +1,5 @@
 **This workshop was presented by UMQ, Join us!**
-![UMQ](Ibra_C2Q.048.jpeg)
+![UMQ Joining](https://github.com/user-attachments/assets/9e010933-53b2-4cc7-97c0-b20760376831)
 
 
 # Calibration Verifications Using QuTiP
