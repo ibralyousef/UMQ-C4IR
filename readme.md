@@ -9,9 +9,9 @@ This repository provides a Jupyter notebook (`C4IR_Workshop.ipynb`) for simulati
 ## Features
 
 - **Frequency Domain**: Coupled qubit-resonator Hamiltonian, energy levels, resonator spectroscopy.
-- **Two-Tone Spectroscopy**: Simulated extraction of qubit and resonator frequencies.
+- **Two-Tone Spectroscopy**: Simulated extraction of the qubit frequency.
 - **Time Domain**: Rabi oscillations, fitting routines, and visualization.
-- **Qubit Characterization**: T1 (relaxation) and T2* (coherence) measurements and fits.
+- **Qubit Characterization**: T1 (decoherence) and T2* (dephasing) measurements and fits.
 
 ## Usage
 
